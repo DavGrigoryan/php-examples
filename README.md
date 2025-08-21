@@ -25,10 +25,9 @@ Mini-games and related logic, including:
 Integrations with useful and interesting features and with external APIs, such as:
 - Integration with a weather API.
 
-### [OOP](OOP)
-Examples of Object-Oriented Programming (OOP) concepts, including:
-- SOLID Principles
-- Design patterns
+### 🏛️ [Architecture_Guidelines](Architecture_Guidelines)
+Examples and explanations of software architecture principles
+- SOLID principles with good and bad design examples.
 
 ### 🏗️ [Simple_PHP_MVC_Framework](Simple_PHP_MVC_Framework)
 A lightweight custom PHP MVC framework for learning and experimentation.
